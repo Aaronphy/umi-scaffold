@@ -16,6 +16,7 @@
     },
     "allowSyntheticDefaultImports": true
   },
+  "typeRoots": ["src/interfaces"],
   "include": [
     "mock/**/*",
     "src/**/*",
